@@ -1,0 +1,21 @@
+{
+  "name": "jokester-merch",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@mux/mux-node": "^6.0.0",
+    "@supabase/supabase-js": "^2.35.0",
+    "form-data": "^4.0.4",
+    "formidable": "^3.5.4",
+    "next": "^13.4.10",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "stripe": "^12.16.0",
+    "three": "^0.158.0"
+  }
+}
