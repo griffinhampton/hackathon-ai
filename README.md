@@ -102,3 +102,7 @@ Running locally
 # NOT POSSIBLE WITHOUT ME SETTING IT UP, SOZ!! CHECK OUT THE DEMO VIDEO AT THE BOTTOM
 
 
+https://github.com/user-attachments/assets/0038cf33-a325-4c3d-90c8-0529b1687681 
+
+
+
